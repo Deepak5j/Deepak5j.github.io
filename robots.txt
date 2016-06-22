@@ -1,0 +1,5 @@
+#robots.txt file for Deepak Gautam's website
+#Disobeying the rules  of the robots.txt will cause your IP to banned 
+index.html
+User-agent: *
+Disallow: /images/
