@@ -1,8 +1,13 @@
 # Deepak5j.github.io
-link http://deepak5j.github.io
- or  https://deepak5j.github.io
-Our Indian Comics Superheros :)
+GitHub Page links:-
+ http://deepak5j.github.io
+ https://deepak5j.github.io
 
-Got here, I got new domain for this website:-
+Website links:-
 http://www.indiansuperheroes.tk
-or http://indiansuperheroes.tk/
+http://indiansuperheroes.tk
+
+and
+
+http://www.indiansuperheroes.ml
+http://indiansuperheroes.ml
