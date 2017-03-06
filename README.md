@@ -11,7 +11,3 @@
 
 ####http://www.indiansuperheroes.ml
 ####http://indiansuperheroes.ml
-
-'''
-asas
-'''
