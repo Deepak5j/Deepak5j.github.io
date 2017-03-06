@@ -6,8 +6,8 @@
 ##
 
 ###Website links:-
-####[www.indiansuperheroes.tk](http://www.indiansuperheroes.tk)
-####[indiansuperheroes.tk](http://indiansuperheroes.tk)
+####[Dot TK 1](http://www.indiansuperheroes.tk)
+####[Dot TK 2](http://indiansuperheroes.tk)
 
-####[www.indiansuperheroes.ml](http://www.indiansuperheroes.ml)
-####[indiansuperheroes.ml](http://indiansuperheroes.ml)
+####[Dot ML 1](http://www.indiansuperheroes.ml)
+####[Dot ML 2](http://indiansuperheroes.ml)
