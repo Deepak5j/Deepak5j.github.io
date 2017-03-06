@@ -1,6 +1,7 @@
 # Deepak5j.github.io
 
-## Prose [![Build Status] https://deepak5j.github.io](https://deepak5j.github.io)
+## [![Build Status](https://deepak5j.github.io)](https://deepak5j.github.io)
+
 
 ###GitHub Page links:-
 ####https://deepak5j.github.io
