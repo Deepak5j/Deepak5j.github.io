@@ -1,6 +1,4 @@
-# Deepak5j.github.io
-
-## [![Build Status](https://github.com/Deepak5j/Deepak5j.github.io/blob/master/images/Skull-32x32.png)](https://deepak5j.github.io)
+# Deepak5j.github.io [![Build Status](https://github.com/Deepak5j/Deepak5j.github.io/blob/master/images/Skull-32x32.png)](https://deepak5j.github.io)
 
 
 ###GitHub Page links:-
