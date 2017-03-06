@@ -1,6 +1,6 @@
 # Deepak5j.github.io
 
-## [![Build Status](https://github.com/Deepak5j/Deepak5j.github.io/blob/master/images/0.jpg)](https://deepak5j.github.io)
+## [![Build Status](https://github.com/Deepak5j/Deepak5j.github.io/blob/master/images/0a.png)](https://deepak5j.github.io)
 
 
 ###GitHub Page links:-
