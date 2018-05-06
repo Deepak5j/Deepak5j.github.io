@@ -1,0 +1,4 @@
+#robots.txt file for IndianSuperHeroes website
+#Disobeying the rules  of the robots.txt will cause your IP to banned
+User-agent: *
+Disallow:
