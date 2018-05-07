@@ -171,9 +171,11 @@ img.im1
 /*-----------------internal images---------------*/
 img.imInt
 {
-	margin: 1.5%;
+	width: 90%;
+	height: 90%;
+	margin: 10px;
 	border-style:ridge;
-	border-width:3px;
+	border-width: 2px;
 	border-color:rgb(12,120,12);
 	
 }
@@ -281,5 +283,9 @@ img.im0a
 	}
 	#body-header {
 		font-size:20px;
+	}
+	img.imInt {
+		height:250px; 
+		width:250px;
 	}
 }
