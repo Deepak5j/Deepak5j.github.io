@@ -34,7 +34,7 @@ img.im0h
 nav
 {
 	width: 100%;
-	height: 120px; /*small screen*/
+	height: 140px; /*small screen*/
 	margin-top: 0%;/*------bring header down------*/
 	border:1px solid rgb(255,0,0);
 	background-color: rgb(0,0,0);
