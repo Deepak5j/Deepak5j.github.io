@@ -225,10 +225,18 @@ img.im0a
 	margin-right: 3%;
 	text-decoration: none;
 }
-.ads-container-out {
-	border : 0.1px solid #000fff;/*blue outline*/
+.ads-container-out {/*
+	border : 0.1px solid #000fff;/*blue outline
 	margin: 6%;
-	margin-top: 2%;
+	margin-top: 2%;*/
+	
+	margin-top: 5%;
+	margin-bottom: 10%;
+	width : 86% ;
+	height : 100%;
+	border : 0.1px solid #000fff;/*blue outline*/
+	margin-left:6.5%;
+	margin-right:8%;
 }
 
 @media (min-width: 800px) { /*for large screen*/
