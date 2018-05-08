@@ -225,6 +225,11 @@ img.im0a
 	margin-right: 3%;
 	text-decoration: none;
 }
+.ads-container-out {
+	border : 0.1px solid #000fff;/*blue outline*/
+	margin: 6%;
+	margin-top: 2%;
+}
 
 @media (min-width: 800px) { /*for large screen*/
 	#content {
