@@ -237,6 +237,7 @@ img.im0a
 	border : 0.1px solid #000fff;/*blue outline*/
 	margin-left:6.5%;
 	margin-right:8%;
+	padding: 3%;
 }
 
 @media (min-width: 800px) { /*for large screen*/
