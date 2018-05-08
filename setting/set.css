@@ -10,8 +10,8 @@ img.im0l
 	position: absolute;
 	padding-left: 0px;
 	padding-top: 0px;
-	height:8%;
-	width:10%;
+	height:5%;
+	width:5%;
 	margin: 1%;
 	border-style:none;
 	border-width:2px;
@@ -235,8 +235,8 @@ img.im0a
 		width:360px;
 	}
 	img.im0l {
-		height:92px;
-		width:82px;
+		height:30px;
+		width:30px;
 	}
 	nav {
 		height: 45px;
