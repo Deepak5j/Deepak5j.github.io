@@ -284,4 +284,8 @@ img.im0a
 	#body-header {
 		font-size:20px;
 	}
+	img.imInt {
+		width: 270px;
+		height: 300px;
+	}
 }
