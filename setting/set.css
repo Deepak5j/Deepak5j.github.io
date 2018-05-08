@@ -225,7 +225,10 @@ img.im0a
 	margin-right: 3%;
 	text-decoration: none;
 }
-
+.ads-container-out {
+	padding-right: 1.5%;
+	padding-left: 1.5%;
+}
 @media (min-width: 800px) { /*for large screen*/
 	#content {
 		font-size: 150%;
