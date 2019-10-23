@@ -11,14 +11,13 @@
 #
 
 ## Project Website URL
-#### [Website URL1: ](https://deepak5j.github.io) 
+#### [Website URL1: deepak5j.github.io](https://deepak5j.github.io) 
 #### [Website URL2: deepakgautamx.ml](http://deepakgautamx.ml/)
 
 #
 
 ## [RC Motion Pictures](https://www.youtube.com/channel/UC-0_gHEhdj9Lw7FSvRoJr3Q)
 
-#
 
 ## [Welcome to Raj Comics Online Store](https://www.rajcomics.com/)
 
