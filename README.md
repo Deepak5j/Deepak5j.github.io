@@ -7,7 +7,6 @@
 > The company mainly publishes four types of comics; medieval fantasy, horror, mystery, and superhero comics, with a predominant focus on superhero content. Their comics are usually published in Hindi, with only a few titles and special editions in English. It has produced close to 35,000 comics to date and has been read by people in India and abroad. The company also publishes an online exclusive web series named Raj Rojana, with a new page uploaded every day.
 
 > Raj Comics publishes in multiple formats, which include e-book, print, and motion comics. The company also sells hardcovers of their old and new comics, as well as bundled collections of their characters. 
-```
 
 #
 
